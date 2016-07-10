@@ -14,7 +14,7 @@ public class Main {
         System.out.print("Деление с остатком. Введите натуральное число. Enter для 21: \n");
 
 
-        if ( !in.nextLine().trim().isEmpty() ) { //TODO: прмсвоить переменную in потоку?
+        if ( !in.nextLine().trim().isEmpty() ) { //TODO: прмсвоить переменной "in"-поток?
 
             System.out.print("Повторите! \n");//TODO: убрать проверку?
 
